@@ -99,7 +99,7 @@ fun_delete_data() {
             return 0
           fi
 
-          echo "${get_data[@]}" > $DATABASE_NAME
+          echo "${get_data[@]}" >$DATABASE_NAME
           return 0
         fi
 
@@ -175,11 +175,11 @@ fun_exit() {
 }
 
 while :; do
-
+  clear
   echo "-------------------------------------"
   echo " Menü "
   echo "-------------------------------------"
-  echo "[1] Bilgi girişi"
+  echo "[1] Bilgi Girişi"
   echo "[2] Kayıt Arama"
   echo "[3] Tüm Kayıtları Göster"
   echo "[4] Kayıt Sil"
