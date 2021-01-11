@@ -1,4 +1,5 @@
 #!/bin/bash
+
 DATABASE_NAME='data.txt'
 
 fun_insert_data() {

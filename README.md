@@ -1,3 +1,11 @@
+# Gereksinimler
+
+&emsp;Bu betik 'whiptail' paketiyle geliştirilmiştir. Debian tabanlı sistemler için:
+
+    sudo apt-get whiptail
+
+komutuyla kurulumu gerçekleştirebilirsiniz.
+
 # Nasıl Çalışır ?
 
 &emsp; Betiğimiz 5 ana bölmeden oluşuyor;
